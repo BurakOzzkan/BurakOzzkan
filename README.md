@@ -3,9 +3,8 @@
 I'm a freshman at Bilkent University, pursuing a bachelor's degree in computer science.
 
 ### 🌱 I’m highly enthusiastic about:
-- Algorithms and Programming
+- Algorithms
 - Java
-- Cybersecurity
 
 ### 📫 How to reach me:
 <div>
